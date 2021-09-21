@@ -1,0 +1,13 @@
+.css-svg {
+  width: 1500px;
+  height: 1000px;
+  background-color: white;
+  position: fixed;
+  margin-left: -50px;
+  margin-top: -50px;
+}
+
+.css-size {
+  width: 100px;
+  height: 40px;
+}
